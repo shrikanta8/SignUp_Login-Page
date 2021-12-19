@@ -1,2 +1,1 @@
-# remmnit
-Frontend Project for MNNIT
+Sign Up and Login page
